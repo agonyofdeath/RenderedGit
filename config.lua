@@ -1,10 +1,10 @@
 return {
-	bot_api_key = '198733539:AAGV9pV-ry2He6PozSlAWRPXW3tO5DoNSe4',
+	bot_api_key = '247235837:AAHmBuhU9sz8jNK3V1sUQbPI5vHVWctjGWs',
 	version = '4.0',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 23646077,
+		owner = 247235837,
 		admins = {
 			[141956218] = true
 		}
