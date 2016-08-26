@@ -10,7 +10,7 @@ return {
             main = 'Surf this keyboard to change the group settings'
         },
         status = {
-            kicked = '&&&1 is banned from this group',
+            kicked = '&&&1 is banned from, this group',
             left = '&&&1 left the group or has been kicked and unbanned',
             administrator = '&&&1 is an Admin',
             creator = '&&&1 is the group creator',
